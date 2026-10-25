@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectId" id="3LC062PrlyzgMj6UUxMScnvczjb" />
+  <component name="PropertiesComponent">{}</component>
+  <component name="RunManager">
+    <configuration name="Different_Way_Creating_Thread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example.mutiThreading.Different_Way_Creating_Thread" />
+      <module name="MutiThreading-JAVA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Different_Way_Creating_Thread" />
+      </list>
+    </recent_temporary>
+  </component>
+</project>

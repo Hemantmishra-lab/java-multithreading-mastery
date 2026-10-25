@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8fd4bd00-75e0-403e-aa93-c86299776f67" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3LC062PrlyzgMj6UUxMScnvczjb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Daemon_Thread_Guide_Demo.executor": "Run",
+    "Application.Different_Way_Creating_Thread.executor": "Run",
+    "Application.Inter_Thread_Communication_Demo.executor": "Run",
+    "Application.Sleep_Yield_Join_Comparison_Demo.executor": "Run",
+    "Application.Static_Synchronization_Demo.executor": "Run",
+    "Application.Synchronization_Problem_Demo.executor": "Run",
+    "Application.Synchronized_Block_Demo.executor": "Run",
+    "Application.Synchronized_Method_Demo.executor": "Run",
+    "Application.Thread_Execution_Scenarios.executor": "Run",
+    "Application.Thread_Interrupt_Method_Demo.executor": "Run",
+    "Application.Thread_Interrupted_Vs_IsInterrupted_Demo.executor": "Run",
+    "Application.Thread_Join_Method_Demo.executor": "Run",
+    "Application.Thread_Methods_Constructors_Demo.executor": "Run",
+    "Application.Thread_Naming_And_Status_Demo.executor": "Run",
+    "Application.Thread_Priorities_Guide_Demo.executor": "Run",
+    "Application.Thread_Sleep_Method_Demo.executor": "Run",
+    "Application.Thread_Start_Vs_Run_Demo.executor": "Run",
+    "Application.Thread_Yield_Method_Demo.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Inter_Thread_Communication_Demo">
+    <configuration name="Inter_Thread_Communication_Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example.mutiThreading.Inter_Thread_Communication_Demo" />
+      <module name="MutiThreading-JAVA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Static_Synchronization_Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example.mutiThreading.Static_Synchronization_Demo" />
+      <module name="MutiThreading-JAVA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Synchronization_Problem_Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example.mutiThreading.Synchronization_Problem_Demo" />
+      <module name="MutiThreading-JAVA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Synchronized_Block_Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example.mutiThreading.Synchronized_Block_Demo" />
+      <module name="MutiThreading-JAVA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Synchronized_Method_Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example.mutiThreading.Synchronized_Method_Demo" />
+      <module name="MutiThreading-JAVA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Inter_Thread_Communication_Demo" />
+        <item itemvalue="Application.Static_Synchronization_Demo" />
+        <item itemvalue="Application.Synchronized_Block_Demo" />
+        <item itemvalue="Application.Synchronized_Method_Demo" />
+        <item itemvalue="Application.Synchronization_Problem_Demo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8fd4bd00-75e0-403e-aa93-c86299776f67" name="Changes" comment="" />
+      <created>1792942566731</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1792942566731</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
