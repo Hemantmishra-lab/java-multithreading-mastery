@@ -1,0 +1,35 @@
+# ☕ Java Multithreading, Concurrency & Localization Mastery (21 Demos)
+
+A complete, hands-on repository covering core Java multithreading, thread synchronization, modern `java.util.concurrent` APIs, and application localization (i18n/l10n).
+
+---
+
+## 1. Core Multi-Threading Fundamentals (6 Files)
+* **`Different_Way_Creating_Thread.java`** — Extending the `Thread` class vs. implementing the `Runnable` interface.
+* **`Thread_Execution_Scenarios.java`** — Single and multiple tasks executed across single and multiple threads.
+* **`Thread_Start_Vs_Run_Demo.java`** — Call stack creation and OS/JVM thread scheduling (`start()`) vs. synchronous execution (`run()`).
+* **`Thread_Methods_Constructors_Demo.java`** — Core `Thread` constructors and utility methods.
+* **`Thread_Naming_And_Status_Demo.java`** — Thread lifecycle states, naming (`getName()` / `setName()`), and checking status (`isAlive()`).
+* **`Daemon_Thread_Guide_Demo.java`** — User threads vs. background daemon threads (`setDaemon()`).
+
+## 2. Thread Execution Control & Scheduling (7 Files)
+* **`Thread_Priorities_Guide_Demo.java`** — Thread priority levels (1–10) and JVM scheduler behavior.
+* **`Thread_Sleep_Method_Demo.java`** — Timed pauses (`Thread.sleep()`) without releasing monitor locks.
+* **`Thread_Yield_Method_Demo.java`** — Scheduler hints (`Thread.yield()`) for equal-priority threads.
+* **`Thread_Join_Method_Demo.java`** — Task dependency coordination (`join()`).
+* **`Sleep_Yield_Join_Comparison_Demo.java`** — Side-by-side comparison of `sleep()`, `yield()`, and `join()`.
+* **`Thread_Interrupt_Method_Demo.java`** — Graceful thread cancellation using `interrupt()` and `InterruptedException`.
+* **`Thread_Interrupted_Vs_IsInterrupted_Demo.java`** — Checking vs. clearing the thread interrupt status flag.
+
+## 3. Synchronization & Inter-Thread Communication (5 Files)
+* **`Synchronization_Problem_Demo.java`** — Race conditions and data corruption on shared resources.
+* **`Synchronized_Method_Demo.java`** — Object-level mutual exclusion using `synchronized` methods.
+* **`Synchronized_Block_Demo.java`** — Granular locking (`synchronized(this)`) to reduce lock contention.
+* **`Static_Synchronization_Demo.java`** — Class-level locking (`static synchronized`) across multiple object instances.
+* **`Inter_Thread_Communication_Demo.java`** — Monitor signaling with `wait()`, `notify()`, and `notifyAll()`.
+
+## 4. High-Level Concurrency & Localization (4 Modules)
+* **`Callable_And_Future_Demo.java`** — Returning computed results and handling checked exceptions from worker threads using `Callable` and `Future`.
+* **`Executor_Service_Demo.java`** — Thread pool management (`Executors.newFixedThreadPool()`), task submission, and graceful shutdown.
+* **`Recursive_Task_ForkJoin_Demo.java`** — Divide-and-conquer parallel processing using `RecursiveTask` and `ForkJoinPool`.
+* **`Locale_And_ResourceBundle_Demo.java` (+ `.properties` bundles)** — Internationalization (i18n) and localization (l10n) using `Locale` objects and `ResourceBundle` lookup/fallback.

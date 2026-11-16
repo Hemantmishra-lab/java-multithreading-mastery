@@ -31,13 +31,14 @@ public class Different_Way_Creating_Thread {
 
         // 3. Thread Lifecycle Demonstration (Dead thread cannot be restarted)
         try {
-            thread1.join(); // Wait for thread1 to complete its task
+            thread1.join();
+            thread2.join(); // Wait for thread1 to complete its task
 
             System.out.println("\nAttempting to restart a finished thread...");
             thread1.start(); // Throws IllegalThreadStateException
 
         } catch (IllegalThreadStateException e) {
-            System.err.println("Error caught: Cannot restart a dead thread.");
+            System.out.println("Error caught: Cannot restart a dead thread.");
         } catch (InterruptedException e) {
             Thread.currentThread().interrupt();
         }

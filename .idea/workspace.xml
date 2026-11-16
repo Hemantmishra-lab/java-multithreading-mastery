@@ -17,49 +17,57 @@
       </list>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3LC062PrlyzgMj6UUxMScnvczjb" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Daemon_Thread_Guide_Demo.executor": "Run",
-    "Application.Different_Way_Creating_Thread.executor": "Run",
-    "Application.Inter_Thread_Communication_Demo.executor": "Run",
-    "Application.Sleep_Yield_Join_Comparison_Demo.executor": "Run",
-    "Application.Static_Synchronization_Demo.executor": "Run",
-    "Application.Synchronization_Problem_Demo.executor": "Run",
-    "Application.Synchronized_Block_Demo.executor": "Run",
-    "Application.Synchronized_Method_Demo.executor": "Run",
-    "Application.Thread_Execution_Scenarios.executor": "Run",
-    "Application.Thread_Interrupt_Method_Demo.executor": "Run",
-    "Application.Thread_Interrupted_Vs_IsInterrupted_Demo.executor": "Run",
-    "Application.Thread_Join_Method_Demo.executor": "Run",
-    "Application.Thread_Methods_Constructors_Demo.executor": "Run",
-    "Application.Thread_Naming_And_Status_Demo.executor": "Run",
-    "Application.Thread_Priorities_Guide_Demo.executor": "Run",
-    "Application.Thread_Sleep_Method_Demo.executor": "Run",
-    "Application.Thread_Start_Vs_Run_Demo.executor": "Run",
-    "Application.Thread_Yield_Method_Demo.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.jshint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.jshint": "",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Daemon_Thread_Guide_Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Different_Way_Creating_Thread.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Inter_Thread_Communication_Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sleep_Yield_Join_Comparison_Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Static_Synchronization_Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Synchronization_Problem_Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Synchronized_Block_Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Synchronized_Method_Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Thread_Execution_Scenarios.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Thread_Interrupt_Method_Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Thread_Interrupted_Vs_IsInterrupted_Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Thread_Join_Method_Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Thread_Methods_Constructors_Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Thread_Naming_And_Status_Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Thread_Priorities_Guide_Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Thread_Sleep_Method_Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Thread_Start_Vs_Run_Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Thread_Yield_Method_Demo.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Inter_Thread_Communication_Demo">
+}</component>
+  <component name="RunManager" selected="Application.core.java.concurrency.Inter_Thread_Communication_Demo">
+    <configuration name="Different_Way_Creating_Thread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="core.java.concurrency.Different_Way_Creating_Thread" />
+      <module name="MutiThreading-JAVA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Inter_Thread_Communication_Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="example.mutiThreading.Inter_Thread_Communication_Demo" />
       <module name="MutiThreading-JAVA" />
@@ -74,22 +82,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Synchronization_Problem_Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="example.mutiThreading.Synchronization_Problem_Demo" />
+    <configuration name="Thread_Join_Method_Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="core.java.concurrency.Thread_Join_Method_Demo" />
       <module name="MutiThreading-JAVA" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Synchronized_Block_Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="example.mutiThreading.Synchronized_Block_Demo" />
-      <module name="MutiThreading-JAVA" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Synchronized_Method_Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="example.mutiThreading.Synchronized_Method_Demo" />
+    <configuration name="core.java.concurrency.Inter_Thread_Communication_Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="core.java.concurrency.Inter_Thread_Communication_Demo" />
       <module name="MutiThreading-JAVA" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -97,11 +98,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.core.java.concurrency.Inter_Thread_Communication_Demo" />
+        <item itemvalue="Application.Thread_Join_Method_Demo" />
+        <item itemvalue="Application.Different_Way_Creating_Thread" />
         <item itemvalue="Application.Inter_Thread_Communication_Demo" />
         <item itemvalue="Application.Static_Synchronization_Demo" />
-        <item itemvalue="Application.Synchronized_Block_Demo" />
-        <item itemvalue="Application.Synchronized_Method_Demo" />
-        <item itemvalue="Application.Synchronization_Problem_Demo" />
       </list>
     </recent_temporary>
   </component>

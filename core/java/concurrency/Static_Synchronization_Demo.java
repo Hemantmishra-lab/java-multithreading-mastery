@@ -33,6 +33,7 @@ class StaticBookMovieSeat {
     }
 }
 
+
 class MultiObjectPassengerThread extends Thread {
     private final StaticBookMovieSeat bookingInstance;
     private final int seatsToBook;
